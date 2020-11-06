@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DJILivestream</string>
+    <string name="start_stream">Start Stream</string>
+    <string name="stop_stream">Stop Stream</string>
+
+    <string name="status_NA">Status: No Product Connected </string>
+    <string name="status_connected">Status: Connected</string>
+    <string name="product_information">Product Information</string>
+    <string name="model_NA">Model Not Available</string>
+    <string name="livestream_url">Livestream URL</string>
+    <string name="disable_audio">Disable Audio</string>
+</resources>
